@@ -4,9 +4,7 @@ An application of GRU(Gated Recurrent Unit) models to translate a sentence in on
 English to Hindi was taken as an example for writing the code but it is applicable to almost language conversions. Although, right now, preprocessing in the code is only for certain languages, more will be added in the future
 
 ## Authors
-- Rudra Panch
-- Raul Om Deepak
-- Rachit Kumar
+- Anjana Melam
 
 ## Data
 
@@ -74,3 +72,4 @@ decoder_output, attn_weights = evaluate(encoder, decoder, sentence, features_voc
 ## Conclusion
 
 We have succesfully built a working model of a text translator which translator text of one langauge to another language seamlessly using Gated Recurrent Unit(GRU) mechanism. 
+
